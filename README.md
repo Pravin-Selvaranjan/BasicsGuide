@@ -1,3 +1,3 @@
 # BasicsGuide
-## Installation of relevant environments 
-### Git uses
+# Installation of relevant environments 
+# Git uses
