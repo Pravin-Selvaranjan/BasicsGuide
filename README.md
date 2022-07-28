@@ -4,4 +4,4 @@
 …
 
 * Step 1
-Go to the 
+"Go to the Python Folder and install the latest version relevant to your OS 
