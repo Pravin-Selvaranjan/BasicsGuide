@@ -4,8 +4,8 @@
 …
 
 * Step 1
-Go to the Python Folder and install the latest versions of both Python and Pycharm relevant to your OS 
 
+Go to the Python Folder and install the latest versions of both Python and Pycharm relevant to your OS 
 
 * Step 2
 
