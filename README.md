@@ -4,4 +4,14 @@
 …
 
 * Step 1
-"Go to the Python Folder and install the latest version relevant to your OS 
+Go to the Python Folder and install the latest versions of both Python and Pycharm relevant to your OS 
+
+
+* Step 2
+
+Go to the Git folder and follow the instructions
+
+* Step 3
+
+Go to the Push/Pull folder and follow the instructions
+
