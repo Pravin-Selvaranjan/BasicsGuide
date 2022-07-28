@@ -15,3 +15,4 @@ Go to the Git folder and follow the instructions
 
 Go to the Push/Pull folder and follow the instructions
 
+![Flowcharts (1)](https://user-images.githubusercontent.com/110179866/181595558-9b1808f5-e620-423a-8848-d3722dae28f4.jpeg)
